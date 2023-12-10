@@ -1,0 +1,5 @@
+@author Abid Kamaluddin
+Python 3.11.5
+
+These some tool to Rename, Convert image, and Copying Image base on Excel FIle ( SKU ) and call it use Index file
+The Scrapper is tool to download image from Excell that contains SKU code and links, will be download and rename it as sku code with jpeg Extentions.
